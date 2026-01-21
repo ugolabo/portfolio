@@ -23,7 +23,7 @@ Sélection de projets.
 | Machine Learning avec Random Forests sur Streamlit[^b]  | <img src="img/ml_random_forests_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit" target="_blank">repo</a>  |
 | Machine Learning avec Random Forests sur Streamlit (v2)  |   | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit_v2" target="_blank">repo</a>  |
 
-[^a] : Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour.
+[^a]: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour.
 
 [^b]: Machine Learning avec Random Forests sur Streamlit explique le projet, mais n'alimente plus Streamlit Cloud pour l'app interactive. Machine Learning avec Random Forests sur Streamlit (v2) alimente uniquement Streamlit Cloud.
 
