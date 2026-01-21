@@ -4,8 +4,6 @@
 
 Sélection de projets.
 
-[TOC]
-
 ## Programmation et Bases de données
 
 | Projet | Aperçu | Lien |
