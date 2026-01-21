@@ -14,7 +14,7 @@ Sélection de projets.
 | CI/CD: fichier Python, linting et tests unitaires | <img src="img/cicd_python_linting_tests.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/cicd_python_linting_tests" target="_blank">repo</a>  |
 | Bases de données SQL et NoSQL | <img src="img/bases_de_donnees_sql_nosql.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/bases_donnees_sql_nosql" target="_blank">repo</a>  |
 
-## Data Science, Machine Learning, IA
+## Data Science, Machine Learning
 
 | Projet | Aperçu | Lien |
 |:-----|:-----|:-----|
