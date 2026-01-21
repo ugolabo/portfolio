@@ -1,50 +1,30 @@
 # Portfolio
 
-Sélection de projets suivant le modèle d'affaires d'AIoTCanada:
+Sélection de projets.
 
-<img src="img/model1.jpg" alt="Modèle d'AIoTCanada">
+<img src="img/portfolio.jpg" alt="" width="300px">
 
-## *Smart Objects and Edge Computing*
+## Programmation et Bases de données
 
-<img src="img/model1a.jpg" alt="Modèle d'AIoTCanada" width="200">
+| Projet | Aperçu | Lien |
+|:-----|:-----|:-----|
+| Programmation Python | <img src="img/programmation_python.jpg" alt="" width="300px"> | bouton droit vers: <a href="https://github.com/ugolabo/programmation_python" target="_blank">repo</a>  |  |
+| Formation | <img src="img/formation.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugolab.gitlab.io/formation/description/" target="_blank">site</a>  |
+| Environnements virtuels, empaquetage, conteneurs Dockers | <img src="img/env_empaquetage_docker.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/env_empaquetage_docker" target="_blank">repo</a>  |
+| CI/CD: fichier Python, linting et tests unitaires | <img src="img/cicd_python_linting_tests.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/cicd_python_linting_tests" target="_blank">repo</a>  |
+| Bases de données SQL et NoSQL | <img src="img/bases_de_donnees_sql_nosql.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/bases_donnees_sql_nosql" target="_blank">repo</a>  |
 
-| Projets:     |      |
-|:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Électronique, capteurs et actionneurs en langage C sur Arduino | <a href="https://github.com/ugolabo/electro_capteurs_actionneurs">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Système d'alarme avec un Raspberry Pi | <a href="https://github.com/ugolabo/systeme_alarme_rpi">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Domotique avec commandes vocales et Tkinter sur des Raspberry Pi  | <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>  |
-| **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: <ins>noeuds RPi Pico (microcontrôleur et capteur)</ins> à Streamlit (tableau de bord)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord avec Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
+## Data Science, Machine Learning, IA
 
-## *Cloud Computing and Platforms, Databases, Computing, ML, and AI*
+| Projet | Aperçu | Lien |
+|:-----|:-----|:-----|
+| Portfolio de Data Science^a  | <img src="img/portfolio_data_science.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugofolio.netlify.app/portfolio/" target="_blank">site</a>  |
+| Machine Learning avec Random Forests  | <img src="img/ml_random_forests.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests" target="_blank">repo</a> |
+| Machine Learning avec Random Forests sur Streamlit[^b]  | <img src="img/ml_random_forests_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit" target="_blank">repo</a>  |
+| Machine Learning avec Random Forests sur Streamlit (v2)  |   | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit_v2" target="_blank">repo</a>  |
 
-<img src="img/model1b.jpg" alt="Modèle d'AIoTCanada" width="200">
+???
 
-| Projets:     |      |
-|:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Bases de données: MariaDB, MySQL pour SQL, MongoDB pour NoSQL; et Données Massives | <a href="https://github.com/ugolabo/base_donnees_massives">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Programmation linéaire, recherche opérationnelle et algorithmique | <a href="https://github.com/ugolabo/programmation_lineaire_algorithmique">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Tests unitaires et typage de code source | <a href="https://github.com/ugolabo/tests_unitaires_typage_code">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Machine Learning avec des modèles de Random Forests; prédire l'obésité  | <a href="https://github.com/ugolabo/ml_random_forests">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La mise en production (et la bonification) avec Streamlit | <a href="https://ugolabo-ml-random-forests-st-01-modele-widb6v.streamlit.app/">bouton droit vers site</a> |
-| **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>via MQTT et MongoDB Atlas</ins> | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord avec Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
+^a : Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour.
 
-## *Interaction*
-
-<img src="img/model1c.jpg" alt="Modèle d'AIoTCanada" width="200">
- 
-| Projets:     |      |
-|:-----|:-----|
-| &nbsp;&nbsp;&nbsp;&nbsp;Page web interactive; grille à colorier  | <a href="https://github.com/ugolabo/page_web_interactive">bouton droit vers repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Boite de recherche; API GIPHY pour télécharger des GIF ou des Stickers | <a href="https://github.com/ugolabo/boite_recherche_api_giphy">bouton droit vers repo</a>  |
-| **Projet intégrateur:** |       |
-| &nbsp;&nbsp;&nbsp;&nbsp;Chaine IoT: noeuds RPi Pico (microcontrôleur et capteur) à <ins>Streamlit (tableau de bord)</ins><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;via MQTT et MongoDB Atlas | <a href="https://github.com/ugolabo/chaine_iot_pico_streamlit">bouton droit vers repo</a> |
-| &nbsp;&nbsp;&nbsp;&nbsp;Le tableau de bord avec Streamlit | <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/">bouton droit vers site</a> |
-
-<!--
-| &nbsp;&nbsp;&nbsp;&nbsp;Appli Météo avec React-Native et Expo | todo  |
-| &nbsp;&nbsp;&nbsp;&nbsp;Appli pour piloter un objet connecté par MQTT avec React-Native et Expo | todo  |
--->
+[^b]: Machine Learning avec Random Forests sur Streamlit explique le projet, mais n'alimente plus Streamlit Cloud pour l'app interactive. Machine Learning avec Random Forests sur Streamlit (v2) alimente uniquement Streamlit Cloud.
