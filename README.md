@@ -1,6 +1,8 @@
 # Portfolio
 
-<img src="img/portfolio.jpg" alt="Sélection de projets." width="300px">
+<img src="img/portfolio.jpg" alt="" width="300px">
+
+Sélection de projets.
 
 ## Programmation et Bases de données
 
