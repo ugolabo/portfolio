@@ -46,3 +46,10 @@ Sélection de projets.
 | Domotique avec commandes vocales et Tkinter sur des Raspberry Pi (relié au projet précédent) | <img src="img/domotique_commandes_vocales_tkinter_rpi.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/domotique_commandes_vocales" target="_blank">repo</a>  |
 | Chaine: noeuds Raspberry Pi Pico (microcontrôleur et capteur) à Streamlit (tableau de bord) via MQTT et MongoDB Atlas (relié aux projets précédents) | <img src="img/chaine_pico_streamlit.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/chaine_pico_streamlit" target="_blank">repo</a>  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streamlit (tableau de bord) | <img src="img/chaine_pico_streamlit_2.png" alt="" width="300px">  | bouton droit vers: <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/" target="_blank">site</a> |
+
+## Autres
+
+| Projet | Aperçu | Lien |
+|:-----|:-----|:-----|
+| LaTeX; Pocket Book  | <img src="img/latex_pocket_book.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/latex_pocket_book" target="_blank">repo</a>  |
+| LaTeX; dessins vectoriels  | <img src="img/latex_dessins_vectoriels.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/latex_dessins_vectoriels" target="_blank">repo</a>  |
