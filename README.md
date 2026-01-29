@@ -2,8 +2,6 @@
 
 <img src="img/portfolio.jpg" alt="" width="300px">
 
-Sélection de projets.
-
 Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le nombre total de projets est plus vaste que cette sélection. Beaucoup de projets demeurent "privés" sur d'autres comptes GitHub, sur GitLab et sur Bitbucket. 
 
 ## Programmation et Bases de données
