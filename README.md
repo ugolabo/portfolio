@@ -18,12 +18,16 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 
 | Projet | Aperçu | Lien |
 |:-----|:-----|:-----|
-| Portfolio de Data Science[^a]  | <img src="img/portfolio_data_science.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugofolio.netlify.app/portfolio/" target="_blank">site</a>  |
+| Portfolio de Data Science[^a]  | <img src="img/portfolio_data_science.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugofolio.netlify.app/portfolio/" target="_blank">site</a> (Bitbucket -> Netlify)  |
 | Machine Learning avec Random Forests  | <img src="img/ml_random_forests.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests" target="_blank">repo</a> |
 | Machine Learning avec Random Forests sur Streamlit[^b]  | <img src="img/ml_random_forests_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit" target="_blank">repo</a>  |
-| Machine Learning avec Random Forests sur Streamlit (v2)  |   | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit_v2" target="_blank">repo</a>  |
+| Machine Learning avec Random Forests sur Streamlit (v2)  |   | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit_v2" target="_blank">repo</a> (avec lien vers le site Streamlit)  |
+| Démo Quarto, article, format HTML (chars)  | <img src="img/demo_article_quarto_html_chars.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_quarto_article_html_chars" target="_blank">repo</a> ; bouton droit vers: <a href="https://ugolabo.github.io/demo_quarto_article_html_chars/" target="_blank">site</a>  |
+| Démo Quarto, article, formats HTML et PDF (graphiques)  | <img src="img/demo_article_quarto_html_pdf_graphiques.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_quarto_article_html_pdf_graphiques" target="_blank">repo</a> ; bouton droit vers: <a href="https://ugolabo.github.io/demo_quarto_article_html_pdf_graphiques/" target="_blank">site</a> |
+| Demo, Quarto, report, tufte HTML (churn)  | <img src="img/demo_report_quarto_tufte_html_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_quarto_report_tufte_html_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://ugolabo.github.io/demo_quarto_report_tufte_html_churn/" target="_blank">site</a> |
+| Demo, Quarto, dashboard, format HTML (churn)  | <img src="img/demo_dashboard_quarto_html_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_quarto_dashboard_html_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://https://ugolabo.github.io/demo_quarto_dashboard_html_churn/" target="_blank">site</a> |
 
-[^a]: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour.
+[^a]: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.
 
 [^b]: Machine Learning avec Random Forests sur Streamlit explique le projet, mais n'alimente plus Streamlit Cloud pour l'app interactive. Machine Learning avec Random Forests sur Streamlit (v2) alimente uniquement Streamlit Cloud.
 
@@ -34,9 +38,9 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 | Page web interactive; grille à colorier  | <img src="img/page_web_interactive.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/page_web_interactive" target="_blank">repo</a>  |
 | Boite de recherche  | <img src="img/boite_recherche_api_giphy.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/boite_recherche_api_giphy" target="_blank">repo</a>   |
 | gothon with Python 2.7 | <img src="img/gothon_py27.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/gothon_py27" target="_blank">repo</a>  |
-| web.py with Python 3.11 | <img src="img/webpy_py311.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/webpy_py311" target="_blank">repo</a>  |
+| web.py with Python 3.11 | <img src="img/webpy_py311.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/webpy_py311" target="_blank">repo</a> (avec lien vers le site PythonAnywhere)  |
 | Documentations avec sites web statiques | <img src="img/documentations_web_statiques.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/documentations_web_statiques" target="_blank">repo</a>  |
-| Apps interactives Streamlit | <img src="img/apps_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/apps_streamlit" target="_blank">repo</a>  |
+| Apps interactives Streamlit | <img src="img/apps_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/apps_streamlit" target="_blank">repo</a> (avec lien vers le site Streamlit)  |
 
 ## IoT
 
@@ -45,7 +49,7 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 | Système d'alarme avec un Raspberry Pi (relié au projet suivant) | <img src="img/systeme_alarme_rpi.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/systeme_alarme_rpi" target="_blank">repo</a>  |
 | Domotique avec commandes vocales et Tkinter sur des Raspberry Pi (relié au projet précédent) | <img src="img/domotique_commandes_vocales_tkinter_rpi.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/domotique_commandes_vocales" target="_blank">repo</a>  |
 | Chaine: noeuds Raspberry Pi Pico (microcontrôleur et capteur) à Streamlit (tableau de bord) via MQTT et MongoDB Atlas (relié aux projets précédents) | <img src="img/chaine_pico_streamlit.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/chaine_pico_streamlit" target="_blank">repo</a>  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streamlit (tableau de bord) | <img src="img/chaine_pico_streamlit_2.png" alt="" width="300px">  | bouton droit vers: <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/" target="_blank">site</a> |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streamlit (tableau de bord) | <img src="img/chaine_pico_streamlit_2.png" alt="" width="300px">  | bouton droit vers: <a href="https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/" target="_blank">site</a> (avec lien vers le site Streamlit) |
 
 ## Autres
 
