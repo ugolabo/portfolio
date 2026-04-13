@@ -18,7 +18,7 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 
 | Projet | Aperçu | Lien |
 |:-----|:-----|:-----|
-| Portfolio de Data Science <br> *Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.*  | <img src="img/portfolio_data_science.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugofolio.netlify.app/portfolio/" target="_blank">site</a> (Bitbucket -> Netlify)  |
+| Portfolio de Data Science <br> <sub>*Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.*</sub>  | <img src="img/portfolio_data_science.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugofolio.netlify.app/portfolio/" target="_blank">site</a> (Bitbucket -> Netlify)  |
 | Machine Learning avec Random Forests  | <img src="img/ml_random_forests.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests" target="_blank">repo</a> |
 | Machine Learning avec Random Forests sur Streamlit <br> *Machine Learning avec Random Forests sur Streamlit explique le projet, mais n'alimente plus Streamlit Cloud pour l'app interactive. Machine Learning avec Random Forests sur Streamlit (v2) alimente uniquement Streamlit Cloud.* | <img src="img/ml_random_forests_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit" target="_blank">repo</a>  |
 | Machine Learning avec Random Forests sur Streamlit (v2)  |   | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit_v2" target="_blank">repo</a> (avec lien vers le site Streamlit)  |
