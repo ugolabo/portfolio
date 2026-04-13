@@ -19,7 +19,6 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 | Projet | Aperçu | Lien |
 |:-----|:-----|:-----|
 | Portfolio de Data Science[^a]  | <img src="img/portfolio_data_science.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://ugofolio.netlify.app/portfolio/" target="_blank">site</a> (Bitbucket -> Netlify)  |
-| Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R. |  |  |
 | Machine Learning avec Random Forests  | <img src="img/ml_random_forests.jpg" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests" target="_blank">repo</a> |
 | Machine Learning avec Random Forests sur Streamlit[^b]  | <img src="img/ml_random_forests_streamlit.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit" target="_blank">repo</a>  |
 | Machine Learning avec Random Forests sur Streamlit (v2)  |   | bouton droit vers: <a href="https://github.com/ugolabo/ml_random_forests_streamlit_v2" target="_blank">repo</a> (avec lien vers le site Streamlit)  |
@@ -29,6 +28,12 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 | Demo, book Quarto, PDF (churn)[^c]  | <img src="img/demo_book_quarto_pdf_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_book_quarto_pdf_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://https://ugolabo.github.io/demo_book_quarto_pdf_churn/" target="_blank">site</a> |
 | Demo, dashboard Quarto, HTML (churn)[^c]  | <img src="img/demo_dashboard_quarto_html_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_quarto_dashboard_html_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://https://ugolabo.github.io/demo_quarto_dashboard_html_churn/" target="_blank">site</a> |
 | Demo, website Quarto, HTML (churn)[^c]  | <img src="img/demo_website_quarto_html_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_website_quarto_html_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://https://ugolabo.github.io/demo_website_quarto_html_churn/" target="_blank">site</a> |
+
+> <small>a: <small>Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.</small>
+
+> ^a^: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.
+
+> ^a^: <small>Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.</small>
 
 [^a]: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.
 
