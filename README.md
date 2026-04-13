@@ -29,11 +29,7 @@ Une sélection qui inclut des projets "publics" sur GitLab et sur Bitbucket. Le 
 | Demo, dashboard Quarto, HTML (churn)[^c]  | <img src="img/demo_dashboard_quarto_html_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_quarto_dashboard_html_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://https://ugolabo.github.io/demo_quarto_dashboard_html_churn/" target="_blank">site</a> |
 | Demo, website Quarto, HTML (churn)[^c]  | <img src="img/demo_website_quarto_html_churn.png" alt="" width="300px">  | bouton droit vers: <a href="https://github.com/ugolabo/demo_website_quarto_html_churn" target="_blank">repo</a> ; bouton droit vers: <a href="https://https://ugolabo.github.io/demo_website_quarto_html_churn/" target="_blank">site</a> |
 
-> <small>a: <small>Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.</small>
-
-> ^a^: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.
-
-> ^a^: <small>Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.</small>
+<small>a: <small>Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.</small>
 
 [^a]: Porfolio développé avant 2020 et dont quelques projets mériteraient une mise à jour. Projets en Python et langage R.
 
